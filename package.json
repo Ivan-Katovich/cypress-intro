@@ -1,0 +1,19 @@
+{
+  "name": "cypress-gist",
+  "version": "1.0.0",
+  "description": "Test framework to try Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run",
+    "open": "cypress open"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "Ivan Kotovich",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^3.1.5",
+    "request-promise": "^4.2.4"
+  }
+}

@@ -1,0 +1,4 @@
+{
+  "baseUrl": "https://www.cypress.io",
+  "defaultCommandTimeout": 5000
+}
